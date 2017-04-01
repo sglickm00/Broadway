@@ -16,3 +16,47 @@ body{
 .header p{
   font-size: 18px;
 }
+
+.process h2{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.process h3{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.process p{
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+.banner {
+  background-image: url(../images/flatiron.png);
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.NY h3{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.NY p{
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+.footer p{
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
